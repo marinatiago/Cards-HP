@@ -15,7 +15,7 @@ export const ContainerConteudo = styled.div`
 export const Texto = styled.p`
   text-align: center;
   color: white;
-  border: 0.5vw solid pink;
+  border: 0.1vw solid pink;
   &:hover {
     cursor: pointer;
   }
